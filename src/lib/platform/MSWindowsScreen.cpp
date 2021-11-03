@@ -32,7 +32,6 @@
 #include "barrier/App.h"
 #include "barrier/ArgsBase.h"
 #include "barrier/ClientApp.h"
-#include "mt/Lock.h"
 #include "mt/Thread.h"
 #include "arch/win32/ArchMiscWindows.h"
 #include "arch/Arch.h"

@@ -24,7 +24,6 @@
 #include "barrier/DragInformation.h"
 #include "platform/synwinhk.h"
 #include "mt/CondVar.h"
-#include "mt/Mutex.h"
 #include <string>
 
 #define WIN32_LEAN_AND_MEAN
