@@ -30,7 +30,6 @@
 #include "barrier/Clipboard.h"
 #include "barrier/KeyMap.h"
 #include "barrier/ClientApp.h"
-#include "mt/CondVar.h"
 #include "mt/Thread.h"
 #include "arch/XArch.h"
 #include "base/Log.h"

@@ -18,7 +18,6 @@
 
 #include "barrier/ClientTaskBarReceiver.h"
 #include "client/Client.h"
-#include "mt/Lock.h"
 #include "base/String.h"
 #include "base/IEventQueue.h"
 #include "arch/Arch.h"

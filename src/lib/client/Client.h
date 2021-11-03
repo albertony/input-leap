@@ -26,7 +26,6 @@
 #include "barrier/ClientArgs.h"
 #include "net/NetworkAddress.h"
 #include "base/EventTypes.h"
-#include "mt/CondVar.h"
 
 class EventQueueTimer;
 namespace barrier { class Screen; }
